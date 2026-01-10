@@ -1,20 +1,14 @@
-# Input Funstion in python
+# Casting in python
 
-# a = input()
-# print(int(a)+int(a))
-#  Input Function is always reads input value as a string
+a = 2
+print(type(a))
 
-name = input("Enter your Name : ")
-print(f"welcome {name} in this python world where you can learn beginner to Advance")
+b = "2"
+print(type(b))
 
-age = int(input("Enter your age : "))
-print(f"so next year you will be {(age)+1}!")
+c = int(b)
+print(type(c)) # changing the data type
 
-# Multiple Input in Python
-
-# inter from user to add two number and print result
-x = int(input("Enter your number :"))
-y = int(input("Enter you number : "))
-z = int(input("Enter you number : "))
-
-print(f"sum of {x} , {y} , {z} is {x + y + z}")
+print(a+c)
+#  or
+print(a+int(b))

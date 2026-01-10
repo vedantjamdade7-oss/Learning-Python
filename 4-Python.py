@@ -1,66 +1,20 @@
-# OPERATORS
+# Input Funstion in python
 
-#  1. Arithmetic operators
-a = 8
-b = 4
-print(a+b) # Addition operator
-print(a-b) # substraction operator
-print(a*b) # multiplication operator
-print(a/b) # Division opertor
-print(a%b) # modulus opertor
+# a = input()
+# print(int(a)+int(a))
+#  Input Function is always reads input value as a string
 
-# 2. comparision operator
-a = 10
-b = 7
-print(a>b) #Greater than operator
-print(a<b) #less than operator
-print(a==b) # equal 
-print(a!=b) # not equal 
+name = input("Enter your Name : ")
+print(f"welcome {name} in this python world where you can learn beginner to Advance")
 
-# 3. Assingment operator
-a = 10 # assingment operator
+age = int(input("Enter your age : "))
+print(f"so next year you will be {(age)+1}!")
 
-# 4. Logical operator
-# Rule for 'and' operator
-# 1. True + True = True
-# 2. True + False = False
-# 3. False + False = False
+# Multiple Input in Python
 
-a = 10
-b = 20
-print(a>10 and b<10) #and operator
-print(a==10 and b==20)
-print(a==10 or b<10) # or operator
+# inter from user to add two number and print result
+x = int(input("Enter your number :"))
+y = int(input("Enter you number : "))
+z = int(input("Enter you number : "))
 
-# Rule of 'or' operator
-# True + False = True
-
-# 'not' operator
-print(not(a==10 and b==20))
-
-# 5. Identity operator -is , is not
-x = [1,2,3]
-y = x
-z = [1,2,3]
-print(x is y) # is operator
-print(x is z)
-
-print(x is not z) # is not operator
-
-# 6.Membership operator-in, not in
-my_list = ["apple","orange","mango"]
-print("apple" in my_list) # in
-print("watermelon" in my_list)
-
-print("apple" not in my_list) # not in 
-
-# 7. bitwise operator - And &, OR |, XOR ^, NOT ~, etc
-
-# Rule for '&' operator
-# 1. True(1) + True(1) = True(1)
-# 2. True(1) + False(0) = False(0)
-# 3. False(0) + False(0) = False(0)
-
-a = 5        # 5 in binary - 0101
-b = 3        # 3 in binary - 0011
-print(a & b) # 1 in binary - 0001
+print(f"sum of {x} , {y} , {z} is {x + y + z}")
