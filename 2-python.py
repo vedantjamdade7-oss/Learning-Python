@@ -1,4 +1,5 @@
 # Data type in python
+# Data types are the classification or categorization of data items.
 a = 1
 b = 1
 print(a+b)
