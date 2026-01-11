@@ -12,4 +12,9 @@
 #  b. if_else statement
 #  c. if_elif_else statement
 #  d. nested if statement
-
+# 7. LOOPS
+#  a. while loop
+#  b. for loop
+#  c. nested for loop  
+#  d. loop control statements
+# 8. FUNCTIONS
