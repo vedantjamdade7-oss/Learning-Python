@@ -1,4 +1,5 @@
 # loop control statement
+# It is used to control the execution of loops.
 
 # 1. pass statement
 

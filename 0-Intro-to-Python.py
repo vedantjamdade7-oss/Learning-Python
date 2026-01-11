@@ -18,3 +18,7 @@
 #  c. nested for loop  
 #  d. loop control statements
 # 8. FUNCTIONS
+#  a. return statement
+#  b. pass statement
+#  c. lambda function
+#  d. recursion
