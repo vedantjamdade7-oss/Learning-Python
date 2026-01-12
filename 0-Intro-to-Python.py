@@ -22,3 +22,8 @@
 #  b. pass statement
 #  c. lambda function
 #  d. recursion
+# 9.STRINGS
+#  a. formatted string methods
+#  b. indexing and slicing
+#  c. string methods
+# 10. LISTS
