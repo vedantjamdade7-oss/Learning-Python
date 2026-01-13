@@ -27,3 +27,6 @@
 #  b. indexing and slicing
 #  c. string methods
 # 10. LISTS
+#  a. indexing and slicing 
+#  b. list methods 
+#  c. List comprehension
