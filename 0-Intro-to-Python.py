@@ -30,3 +30,7 @@
 #  a. indexing and slicing 
 #  b. list methods 
 #  c. List comprehension
+# 11. TUPLES 
+#  a. indexing and slicing
+#  b. tuple methods
+#  c. tuple operations and tuple functions
