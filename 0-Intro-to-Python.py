@@ -34,3 +34,5 @@
 #  a. indexing and slicing
 #  b. tuple methods
 #  c. tuple operations and tuple functions
+# 12. DICTIONARIES
+

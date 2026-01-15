@@ -77,7 +77,7 @@ print(sorted(numbers)) # tuple is now list
 #       3. sorted() function returns a list instead of tuple.
 #       4. To convert it back to tuple we can use tuple() constructor.
 #       5. tuple() constructor can also be used to create a tuple from an iterable like list, string,etc.
-#     
+   
 #  Difference Between Tuple Operation and Tuple Function.
 
 # | Feature | Tuple Operation | Tuple Function           |
