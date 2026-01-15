@@ -30,3 +30,23 @@ print(final_list)
 # first [1,2] -> 1,2
 # first [3,4] -> 3,4
 # first [5,6] -> 5,6
+
+# ------------------------------------------------------------------------------------------------------------------
+
+# List iterations - It is the process of Lopping throught each item in the list.
+
+fruits = ["apple","mango","cherry"]
+
+# using for loop
+
+for fruits in fruits:
+    print(fruits)
+
+# while loop
+
+fruits2 = ["apple","mango","cherry"]
+print('length of list',len(fruits2))
+index = 0
+while index < len(fruits2):
+    print(fruits2[index])
+    index += 1

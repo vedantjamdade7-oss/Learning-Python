@@ -29,10 +29,14 @@
 # 10. LISTS
 #  a. indexing and slicing 
 #  b. list methods 
-#  c. List comprehension
+#  c. List comprehension and iteration
 # 11. TUPLES 
 #  a. indexing and slicing
 #  b. tuple methods
 #  c. tuple operations and tuple functions
 # 12. DICTIONARIES
+#  a. nested dictionaries
+#  b. dictionary methods
+#  c. dictionary comprehension and iteration
+
 

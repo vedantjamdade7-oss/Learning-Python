@@ -1,4 +1,5 @@
 # Dictionary in python
+# This is used to store data in key:value pair. It is unordered and mutable.
 
 # syntax: dict = {'key1':'value1', 'key2':'value2',.......}
 
@@ -12,8 +13,8 @@ print(student)
 print(type(student))
 
 
-# Access Dictionary value
-
+# Access Dictionary value - This is done by using key name inside square brackets [] or by using get() method also.
+# The access is used to get value of particular key.
 student = {
     1:"class-x",
     'name':'vedant',

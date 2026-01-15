@@ -8,7 +8,7 @@ tuple2 = ('a','b')
 tuple3 = tuple1 + tuple2
 print(tuple3)
 
-# Repetition
+# Repetition - repeat the tuple elements
 
 tuples = ("hello",)*3
 print(tuples)
@@ -16,7 +16,7 @@ print(tuples)
 tuple4 = ('a','b')*2
 print(tuple4)
 
-# Membership
+# Membership - to check if an element is present in the tuple or not
 
 numbers = (10,20,30,40,50)
 print(30 in numbers)
