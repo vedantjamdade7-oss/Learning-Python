@@ -38,5 +38,7 @@
 #  a. nested dictionaries
 #  b. dictionary methods
 #  c. dictionary comprehension and iteration
-
-
+# 13. SETS
+#  a. set methods
+#  b. set operations and functions
+#  c. comprehension and iteration
