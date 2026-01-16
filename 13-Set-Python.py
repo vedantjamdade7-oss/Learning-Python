@@ -1,4 +1,4 @@
-# sets in Python 
+# sets in Python - Colleetion of unique items, unoredered, mutable. unique means no duplicate items.
 
 my_set = {1,2,3,4}
 print(my_set)
@@ -14,7 +14,7 @@ my_set = {1,2,3,4}
 print(my_set)
 print(type(my_set))
 
-# create set using set constructor
+# create set using set constructor - set construntor means function of set class 
 myset = set([7,8,9])
 print(myset)
 print(type(myset))

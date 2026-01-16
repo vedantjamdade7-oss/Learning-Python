@@ -40,5 +40,8 @@
 #  c. dictionary comprehension and iteration
 # 13. SETS
 #  a. set methods
-#  b. set operations and functions
+#  b. set operations 
 #  c. comprehension and iteration
+# 14. OOPs CONCEPTS
+# 15. FILE HANDLING
+# 16. MODULES AND PACKAGES
