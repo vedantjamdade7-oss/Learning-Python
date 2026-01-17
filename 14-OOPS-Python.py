@@ -2,7 +2,7 @@
 
 # using OOPs - creating student records
 
-# class - blueprint or template
+# Class - blueprint or template
 # __init__ method - constructor, value initilize-fix
 class student:
     def __init__(self,name,grade,idcard_no,percentage,team): # method
@@ -21,7 +21,7 @@ class student:
 team1 = 'A'
 team2 = 'B'
 
-# object - instance of class
+# Object - instance of class
 student1 = student('vedant',11,111,89,'A')
 # print(student1.name, student1.grade)
 
