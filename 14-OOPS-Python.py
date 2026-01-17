@@ -1,4 +1,5 @@
 # OOPs - object oriented programming
+# OOPs is a programming paradigm (style) that uses "objects" to desing software.
 
 # using OOPs - creating student records
 
