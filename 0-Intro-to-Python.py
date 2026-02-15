@@ -12,7 +12,7 @@
 #  b. if_else statement
 #  c. if_elif_else statement
 #  d. nested if statement
-# 7. LOOPS
+# 7. LOOPS (Conditional Statements)
 #  a. while loop
 #  b. for loop
 #  c. nested for loop  
