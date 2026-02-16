@@ -140,7 +140,7 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-## 📂 Folder Structure
+
 
 
 
