@@ -2,7 +2,7 @@
 <br>
 # Learning Python – From Beginner to Advanced
 <br>
--BY Vedant Jamdade
+-By Vedant Jamdade
 
 
 
