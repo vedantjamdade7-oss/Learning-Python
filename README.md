@@ -1,6 +1,6 @@
 # Learning-Python
 <br>
-# 🐍 Learning Python – From Beginner to Advanced
+# Learning Python – From Beginner to Advanced
 <br>
 -BY Vedant Jamdade
 
