@@ -30,7 +30,8 @@ Part-2 : https://www.youtube.com/watch?v=30TOnZbAX_0&t=34s
 ---
 
 ## 📚 Python Notes (Free Download)
-https://drive.google.com/file/d/1EGuB... 
+
+https://drive.google.com/file/d/1EGuBNLRH4jCSQU3v1kOuxAn-t1PvDAaU/view
 
 You can also learn from detailed handwritten notes:
 
