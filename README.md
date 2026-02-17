@@ -24,10 +24,8 @@ This repository includes:
 You can learn Python from these free YouTube tutorials:
 
 🔗 **Full Python Course (Beginner to Advanced)**  
-https://www.youtube.com/watch?v=wloM0N_IMaw&t=641s  
-
-🔗 **Python Practice & Concepts**  
-https://www.youtube.com/watch?v=30TOnZbAX_0&t=34s  
+Part-1 : https://www.youtube.com/watch?v=wloM0N_IMaw&t=641s  
+Part-2 : https://www.youtube.com/watch?v=30TOnZbAX_0&t=34s  
 
 ---
 
@@ -35,7 +33,7 @@ https://www.youtube.com/watch?v=30TOnZbAX_0&t=34s
 
 You can also learn from detailed handwritten notes:
 
-📄 **Python Full Notes – Rishabh Mishra**  
+📄 **Python Full Notes**  
 (Notes available inside this repository)
 
 ---
