@@ -27,23 +27,23 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ## 📚 Topics Covered
 
-🟢 1. Variables
+##🟢 1. Variables
 - Creating and naming variables
 - Variable scope
 
-🟢 2. Data Types
+##🟢 2. Data Types
 - int, float, str, bool
 - Complex data types
 
-🟢 3. Type Casting
+##🟢 3. Type Casting
 - Implicit casting
 - Explicit casting
 
-🟢 4. Input Function
+##🟢 4. Input Function
 - Taking user input
 - Converting input types
 
-🟢 5. Operators
+##🟢 5. Operators
 - Arithmetic operators
 - Comparison operators
 - Logical operators
@@ -52,7 +52,7 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-🟢 6. Conditional Statements
+##🟢 6. Conditional Statements
 - if statement  
 - if-else statement  
 - if-elif-else statement  
@@ -60,7 +60,7 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-🟢 7. Loops
+##🟢 7. Loops
 - while loop  
 - for loop  
 - Nested loops  
@@ -68,7 +68,7 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-🟢 8. Functions
+##🟢 8. Functions
 - Defining functions  
 - return statement  
 - pass statement  
@@ -77,14 +77,14 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-🟢 9. Strings
+##🟢 9. Strings
 - Formatted string methods (f-strings)  
 - Indexing and slicing  
 - String methods  
 
 ---
 
-🟢 10. Lists
+##🟢 10. Lists
 - Indexing and slicing  
 - List methods  
 - List comprehension  
@@ -92,14 +92,14 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-🟢 11. Tuples
+##🟢 11. Tuples
 - Indexing and slicing  
 - Tuple methods  
 - Tuple operations and functions  
 
 ---
 
-🟢 12. Dictionaries
+##🟢 12. Dictionaries
 - Nested dictionaries  
 - Dictionary methods  
 - Dictionary comprehension  
@@ -107,7 +107,7 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-🟢 13. Sets
+##🟢 13. Sets
 - Set methods  
 - Set operations  
 - Set comprehension  
@@ -115,7 +115,7 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-🟢 14. Object-Oriented Programming (OOP)
+##🟢 14. Object-Oriented Programming (OOP)
 - Features of OOP  
 - Classes and Objects  
 - Encapsulation  
@@ -125,14 +125,14 @@ I am building strong fundamentals in programming, problem-solving, and real-worl
 
 ---
 
-🟢 15. File Handling
+##🟢 15. File Handling
 - Reading files  
 - Writing files  
 - File modes  
 
 ---
 
-🟢 16. Modules and Packages
+##🟢 16. Modules and Packages
 - Creating modules  
 - Importing modules  
 - Using built-in modules  
