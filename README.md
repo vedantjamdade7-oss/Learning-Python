@@ -8,14 +8,15 @@
 
 ## 📌 About This Repository
 
-This repository contains my complete journey of learning Python from beginner to advanced level.  
-I am building strong fundamentals in programming, problem-solving, and real-world applications.
+This repository documents my complete journey of learning Python from beginner to advanced level.  
+My goal is to build strong fundamentals in programming, problem-solving, and real-world applications.
 
 This repository includes:
-- 📘 Structured Python Notes
-- 💻 Practice Code
-- 🧠 Logical Problem Solving
-- 📂 Topic-wise Organization
+
+- 📘 Structured Python Notes  
+- 💻 Practice Code  
+- 🧠 Logical Problem Solving  
+- 📂 Topic-wise Organized Content  
 
 ---
 
@@ -23,20 +24,22 @@ This repository includes:
 
 You can learn Python from these free YouTube tutorials:
 
-🔗 **Full Python Course (Beginner to Advanced)**  
-Part-1 : https://www.youtube.com/watch?v=wloM0N_IMaw&t=641s  
-Part-2 : https://www.youtube.com/watch?v=30TOnZbAX_0&t=34s  
+🔗 **Full Python Course – Part 1**  
+https://www.youtube.com/watch?v=wloM0N_IMaw&t=641s  
+
+🔗 **Full Python Course – Part 2**  
+https://www.youtube.com/watch?v=30TOnZbAX_0&t=34s  
 
 ---
 
 ## 📚 Python Notes (Free Download)
 
-https://drive.google.com/file/d/1EGuBNLRH4jCSQU3v1kOuxAn-t1PvDAaU/view
+You can also learn from detailed notes:
 
-You can also learn from detailed handwritten notes:
+📄 **Download Complete Python Notes (PDF)**  
+https://drive.google.com/file/d/1EGuBNLRH4jCSQU3v1kOuxAn-t1PvDAaU/view  
 
-📄 **Python Full Notes**  
-(Notes available inside this repository)
+These notes cover all core Python concepts in a simple and structured manner, making them ideal for revision and self-study.
 
 ---
 
@@ -53,27 +56,27 @@ You can also learn from detailed handwritten notes:
 ---
 
 ## 🟢 1. Variables
-- Creating and naming variables
-- Variable scope
+- Creating and naming variables  
+- Variable scope  
 
 ## 🟢 2. Data Types
-- int, float, str, bool
-- Complex data types
+- int, float, str, bool  
+- Complex data types  
 
 ## 🟢 3. Type Casting
-- Implicit casting
-- Explicit casting
+- Implicit casting  
+- Explicit casting  
 
 ## 🟢 4. Input Function
-- Taking user input
-- Converting input types
+- Taking user input  
+- Converting input types  
 
 ## 🟢 5. Operators
-- Arithmetic operators
-- Comparison operators
-- Logical operators
-- Assignment operators
-- Membership & Identity operators
+- Arithmetic operators  
+- Comparison operators  
+- Logical operators  
+- Assignment operators  
+- Membership & Identity operators  
 
 ---
 
