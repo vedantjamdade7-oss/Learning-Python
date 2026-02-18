@@ -1,4 +1,4 @@
-# 🐍 Learning Python – From Beginner to Advanced
+#  Learning Python – From Beginner to Advanced
 
 ### 👨‍💻 By Vedant Jamdade
 
