@@ -1,5 +1,3 @@
-# Loops in python - while & for loop
-
 # while loop
 # While loop - is used to repeat a block of code as long as a certain condition is true.
 

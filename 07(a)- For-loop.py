@@ -1,4 +1,6 @@
-# # For loop - is used to iterate over a sequence(like a list, tuple, string) or other iterable objects.
+# Loops in python - 
+
+#  For loop - is used to iterate over a sequence(like a list, tuple, string) or other iterable objects.
 
 # language = "python"
 

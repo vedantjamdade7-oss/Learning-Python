@@ -7,12 +7,13 @@
 # 3. CASTING
 # 4. INPUT FUNCTION
 # 5. OPERATORS
+# TYPES OF STATEMENTS
 # 6. CONDITIONAL STATEMENTS
 #  a. if statement
 #  b. if_else statement
 #  c. if_elif_else statement
 #  d. nested if statement
-# 7. LOOPS (Conditional Statements)
+# 7. LOOPS STATEMENTS (Conditional Statements)
 #  a. while loop
 #  b. for loop
 #  c. nested for loop  

@@ -1,4 +1,4 @@
-# Conditional statement in python
+# Conditiontnal stateme in python
 
 # 1. if statement
 # if statement works only for True condition
