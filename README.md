@@ -1,6 +1,6 @@
 #  Learning Python – From Beginner to Advanced
 
-### 👨‍💻 By Vedant Jamdade
+### 👨‍💻 By Vedant Jamdad
 
 ![Python Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Python)
 
